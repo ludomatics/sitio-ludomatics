@@ -1,0 +1,47 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.bg {
+    /* The image used */
+    background-image: url("../img/fondos/students.jpg");
+  
+    /* Full height */
+    height: 50%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    text-align: center;
+    color: white;
+    padding-top: 120px;
+    padding-bottom: 240px;
+}
+
+.people{
+    width: 450px;
+    text-align: center; 
+    border-radius: 5%;
+}
+
+.justify-par{
+    text-align: justify;
+}
+
+.per-margin{
+    margin-bottom: 50px; 
+    margin-left: 10px;
+}
+
+@media only screen and (max-width: 600px) {
+
+    .people{
+        width: 300px;
+    }
+    .img-resp{
+       margin-top: 20px; 
+    }
+} 

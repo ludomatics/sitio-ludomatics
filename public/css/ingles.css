@@ -1,0 +1,116 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.bg {
+    /* The image used */
+    background-image: url("../img/fondos/london-530055_1920.jpg");
+  
+    /* Full height */
+    height: 50%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    text-align: center;
+    color: white;
+    padding-top: 120px;
+    padding-bottom: 240px;
+  }
+
+.certificado{
+	width: 200px;
+}
+.white-check{
+	width: 25px;
+}
+.cert-list{
+	display: inline;
+}
+.first-part{
+	font-size: 20px;
+	font-weight: bold;
+}
+.second-part{
+	font-weight: bold;
+	font-size: 15px;
+}
+.niveles-ingles{
+	margin-top: 30px;
+}
+.kids-ingles{
+	width: 500px;
+}
+.card-center{
+	text-align: center;
+}
+.card-sized{
+	width: 500px;
+}
+.card-niveles{
+	margin-top: 25px;
+}
+
+.english-people{
+    width: 510px;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .english-people{
+        margin-top: 10px;
+        width: 340px;
+    }
+    .card-sized{
+        width: 340px;
+        margin-top: 20px;
+    }
+    .kids-ingles{
+        width: 340px;
+    }
+    .list-level{
+        margin-top: 20px;
+    }
+} 
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    .english-people{
+        margin-top: 10px;
+    }
+    .card-center{
+        margin-bottom: 20px;
+    }
+} 
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    .english-people{
+        width: 400px;
+    }
+} 
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    .card-sized{
+        width: 440px;
+        margin-top: 20px;
+    }
+    .kids-ingles{
+        width: 440px;
+    }
+} 
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    .card-sized{
+        width: 510px;
+        margin-top: 20px;
+    }
+    .kids-ingles{
+        width: 510px;
+    }
+}

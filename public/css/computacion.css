@@ -1,0 +1,53 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("../img/fondos/background-2462431_1920.jpg");
+
+  /* Full height */
+  height: 50%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  text-align: center;
+  color: white;
+  padding-top: 120px;
+  padding-bottom: 240px;
+}
+
+.compu-video{
+  width: 500px;
+  height: 315px;
+}
+
+@media only screen and (max-width: 600px) {
+  .compu-video{
+    width: 300px;
+    height: 200px;
+  }
+}
+@media only screen and (min-device-width: 1024px) 
+  and (max-device-width: 1300px) {
+  .compu-video{
+    width: 450px;
+  }
+}
+
+.white-check{
+    width: 25px;
+}
+
+.first-part{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.comp-apption{
+    text-align: justify;
+}

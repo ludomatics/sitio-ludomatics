@@ -1,0 +1,94 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+.bg {
+    /* The image used */
+    background-image: url("../img/fondos/classroom.jpg");
+
+    /* Full height */
+    height: 50%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    text-align: center;
+	color: white;
+	padding-top: 120px;
+	padding-bottom: 240px;
+}
+
+.comipems{
+	display: inline; 
+	text-align: right;
+	display :margin-top 60px;
+}
+.image-comipems{
+	width: 350px;
+}
+
+.checklist{
+	margin-bottom: 15px;
+}
+
+@media only screen and (max-width: 600px) {
+	.comipems{
+		display: inline; 
+		text-align: center;
+	}
+	.image-comipems{
+		width: 300px;
+	}
+}
+
+@media only screen and (min-width: 600px) {
+	.comipems{
+		display: inline; 
+		text-align: center;
+	}
+}
+
+@media only screen and (min-width: 768px) {
+	.comipems{
+		display: inline; 
+		text-align: center;
+	}
+}
+@media only screen and (min-width: 992px) {
+	.comipems{
+		display: inline; 
+		text-align: right;
+	}
+}
+
+#escuelas li{
+	list-style:none !Important;
+	font-size:14px !Important;
+	padding: 3px;
+}
+
+.lia {
+
+	background-color: #dcdcdc;
+	padding: 3px;
+
+}
+
+.lib{
+
+	background-color: #c4bfbf;
+	padding: 2px;
+}
+
+/*.escuela{
+	font-weight: bold;
+}*/
+
+.nom-escuela{
+	font-weight: bold;	
+}
+.numeros{
+	width: 25px;
+}
