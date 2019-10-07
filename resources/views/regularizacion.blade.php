@@ -12,18 +12,69 @@
         </div>
       </div>
     </div>
-
+    
     <section>
       <div class="container">
-        <!-- Portfolio Item Heading -->
-        <h1 class="my-4">Regularización. Niveles: secundaria y bachillerato.
-          
-        </h1>
-
-        <!-- Portfolio Item Row -->
         <div class="row">
+          <div class="col-12 col-md-12 text-center">
+            <h1 class="my-4">Ponemos nuestra ayuda al alcance de tus manos</h1>      
+          </div>  
+        </div>
+      </div>
+    </section>
 
-          <div class="col-md-8">
+    <section class="bg-blue">
+      <div class="container">
+        <div class="row per-margin-20">
+            <!-- Lecto-escritura, español y matemáticas -->
+          <div class="col-lg-12 col-md-12 col-sm-12 text-center-2">
+            <h2 class="section-heading text-uppercase">Regularización kids</h2>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-4 col-md-6 col-sm-12 img-fluid">
+            <div class="text-icon-center image-center text-center">
+            <img src="img/iconos/lego.svg" width="200">            
+              <h5>Lecto-escritura</h5>
+              <p>
+                Conoce nuestras metodologías para hacer que nuestros alumnos aprendan a leer y escribir en un mes.
+              </p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 col-sm-12 img-fluid">
+            <div class="text-icon-center image-center text-center">
+            <img src="img/iconos/data.svg" width="200">            
+              <h5>Español</h5>
+              <p>
+                Trabajamos conceptos básicos como tiempos verbales, sinónimos, antónimos, adverbios,  conjunciones, disyunciones, etc.
+              </p>
+            </div>
+          </div> 
+          <div class="col-lg-4 col-md-6 col-sm-12 img-fluid">
+            <div class="text-icon-center image-center text-center">
+            <img src="img/iconos/abacus.svg" width="200">            
+              <h5>Matemáticas</h5>
+              <p>
+               Hacemos que los alumnos refuercen lo aprendido en sus aulas y cualquier duda es resuelta por nuestros maestros capacitados.
+              </p>
+            </div>
+          </div>       
+        </div>
+      </div> 
+    </section>
+
+
+
+    <section>
+      <div class="container">        
+        <div class="row">
+          <div class="col-lg-12 col-12 col-md-12 text-center">
+            <h1 class="my-4">Regularización para secundaria y bachillerato </h1>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-md-8 mt-5">
             <img class="img-fluid" src="img/todas/library-3803000_1920.jpg" alt="">
           </div>
 
