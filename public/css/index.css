@@ -59,19 +59,19 @@
 }
 @media only screen and (min-width: 768px) {
 	.map{
-		width: 600px;
+		width: 700px;
 		height: 450px;
 	}
 }
 @media only screen and (min-width: 992px) {
 	.map{
-		width: 400px;
+		width: 1024px;
 		height: 350px;
 	}
 }
 @media only screen and (min-width: 1200px) {
 	.map{
-		width: 540px;
+		width: 1024px;
 		height: 350px;
 	}
 }
