@@ -33,7 +33,7 @@
         <div class="row per-margin-20">
 		
           <div class="col-lg-12 col-md-12 col-sm-12 text-center-2">
-            <h2 class="section-heading text-uppercase">Ven y cosntruye un robot.</h2>
+            <h2 class="section-heading text-uppercase">Ven y construye un robot.</h2>
             <h4>Nuestra metodología. </h4>
           </div>
         </div>
