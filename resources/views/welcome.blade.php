@@ -107,60 +107,43 @@
         </div>
       </div>
       <div class="row">
-
-        <div class="col-lg-3 col-md-2 col-sm-12">
-            <h5>Generación 2012 y 2013</h5>
-        </div>
-        <div class="col-lg-3 col-md-5 col-sm-12 text-center">
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-4">
             <h5>Jorge Garcia</h5>
             <h6>Cecyt 2 IPN</h6>
         </div>
-        <div class="col-lg-3 col-md-5 col-sm-12 text-center">
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center">
             <h5>Rodrigo Francisco</h5>
             <h6>ENP 1 UNAM</h6>
         </div>        
 
-        <div class="col-lg-3 col-md-5 col-sm-12 text-center">
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center">
             <h5>Carlos Ramírez R.</h5>
             <h6>ENP 6 UNAM</h6>
         </div>    
-
-
-        <div class="col-lg-3 col-md-2 col-sm-12">
-            <h5>Generacion 2014 y 2015</h5>
-        </div>
-        <div class="col-lg-3 col-md-5 col-sm-12 text-center">
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center">
             <h5>Cassiel García</h5>
             <h6>ENP 6 UNAM</h6>
         </div>
-        <div class="col-lg-3 col-md-5 col-sm-12 text-center">
+
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center">
             <h5>Miguel Francisco</h5>
             <h6>CCH Sur UNAM</h6>
         </div>        
-
-        <div class="col-lg-3 col-md-5 col-sm-12 text-center">
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center">
             <h5>Angela</h5>
             <h6>CCH Sur UNAM</h6>
         </div>   
-
-        <div class="col-lg-3 col-md-2 col-sm-12">
-            <!--h5>Generacion 2014 y 2015</h5-->
-        </div>
-        <div class="col-lg-3 col-md-5 col-sm-12 text-center">
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center">
             <h5>Lorena</h5>
             <h6>CCH Oriente UNAM</h6>
         </div>
-        <div class="col-lg-3 col-md-5 col-sm-12 text-center">
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center">
             <h5>Ximena</h5>
             <h6>CECYT 15 IPN</h6>
         </div>        
 
-        <div class="col-lg-3 col-md-5 col-sm-12 text-center">
-            <!--h5>Angela</h5>
-            <h6>CCH Sur UNAM</h6-->
-        </div>   
-
       </div>
+
     </div> 
   </section>
 
@@ -174,58 +157,40 @@
         </div>
       </div>
       <div class="row">
-
-        <div class="col-lg-3 col-md-2 col-sm-12">
-            <h5>Generación 2012 y 2013</h5>
-        </div>
-        <div class="col-lg-3 col-md-5 col-sm-12 text-center">
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center">
             <h5>Jorge Garcia</h5>
             <h6>Cecyt 2 IPN</h6>
         </div>
-        <div class="col-lg-3 col-md-5 col-sm-12 text-center">
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center">
             <h5>Rodrigo Francisco</h5>
             <h6>ENP 1 UNAM</h6>
         </div>        
 
-        <div class="col-lg-3 col-md-5 col-sm-12 text-center">
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center">
             <h5>Carlos Ramírez R.</h5>
             <h6>ENP 6 UNAM</h6>
         </div>    
-
-
-        <div class="col-lg-3 col-md-2 col-sm-12">
-            <h5>Generacion 2014 y 2015</h5>
-        </div>
-        <div class="col-lg-3 col-md-5 col-sm-12 text-center">
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center">
             <h5>Cassiel García</h5>
             <h6>ENP 6 UNAM</h6>
         </div>
-        <div class="col-lg-3 col-md-5 col-sm-12 text-center">
+
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center">
             <h5>Miguel Francisco</h5>
             <h6>CCH Sur UNAM</h6>
         </div>        
-
-        <div class="col-lg-3 col-md-5 col-sm-12 text-center">
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center">
             <h5>Angela</h5>
             <h6>CCH Sur UNAM</h6>
         </div>   
-
-        <div class="col-lg-3 col-md-2 col-sm-12">
-            <!--h5>Generacion 2014 y 2015</h5-->
-        </div>
-        <div class="col-lg-3 col-md-5 col-sm-12 text-center">
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center">
             <h5>Lorena</h5>
             <h6>CCH Oriente UNAM</h6>
         </div>
-        <div class="col-lg-3 col-md-5 col-sm-12 text-center">
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center">
             <h5>Ximena</h5>
             <h6>CECYT 15 IPN</h6>
         </div>        
-
-        <div class="col-lg-3 col-md-5 col-sm-12 text-center">
-            <!--h5>Angela</h5>
-            <h6>CCH Sur UNAM</h6-->
-        </div>   
 
       </div>
     </div> 
