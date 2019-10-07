@@ -23,6 +23,30 @@ Route::get('universidad', function () {
     return view('universidad');
 });
 
+Route::get('universidad/unam', function () {
+    return view('university.unam');
+});
+
+Route::get('universidad/ipn', function () {
+    return view('university.ipn');
+});
+
+Route::get('universidad/uam', function () {
+    return view('university.uam');
+});
+
+Route::get('universidad/unaem', function () {
+    return view('university.unaem');
+});
+
+Route::get('universidad/exanii', function () {
+    return view('university.exanii');
+});
+
+Route::get('universidad/militar', function () {
+    return view('university.militar');
+});
+
 Route::get('aulud', function () {
     return view('aulaludomatica');
 });
