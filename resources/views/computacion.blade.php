@@ -132,51 +132,19 @@
           </div>
 
           <div class="col-md-4">
-            <h3 class="my-3">Project Description</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae. Sed dui lorem, adipiscing in adipiscing et, interdum nec metus. Mauris ultricies, justo eu convallis placerat, felis enim.</p>
-            <h3 class="my-3">Project Details</h3>
+            <p>En este curso conocerás las herramientas más utilizadas en el mercado para la edición y creación de gráficos por computadora. Este curso no solo te ayudará a coreegir o retocar tus fotografías sino que te que te abrirá grandes oportunidades en el campo laboral. </p>
+            <h3 class="my-3">Temario</h3>
             <ul>
-              <li>Lorem Ipsum</li>
-              <li>Dolor Sit Amet</li>
-              <li>Consectetur</li>
-              <li>Adipiscing Elit</li>
+              <li>Uso básico de photoshotp</li>
+              <li>Creación de gráficos con ilustrator</li>
+              <li>UI/UX</li>
+              <li>Creación de modelos 3D</li>
             </ul>
           </div>
 
         </div>
         <!-- /.row -->
 
-        <!-- Related Projects Row -->
-        <h3 class="my-4">Related Projects</h3>
-
-        <div class="row">
-
-          <div class="col-md-3 col-sm-6 mb-4">
-            <a href="#">
-              <img class="img-fluid" src="img/template_image/500x300.png" alt="">
-            </a>
-          </div>
-
-          <div class="col-md-3 col-sm-6 mb-4">
-            <a href="#">
-              <img class="img-fluid" src="img/template_image/500x300.png" alt="">
-            </a>
-          </div>
-
-          <div class="col-md-3 col-sm-6 mb-4">
-            <a href="#">
-              <img class="img-fluid" src="img/template_image/500x300.png" alt="">
-            </a>
-          </div>
-
-          <div class="col-md-3 col-sm-6 mb-4">
-            <a href="#">
-              <img class="img-fluid" src="img/template_image/500x300.png" alt="">
-            </a>
-          </div>
-
-        </div>
-        <!-- /.row -->
       </div>
     </section>
 
