@@ -102,38 +102,8 @@
     <section>
       <div class="container">
         <div class="row">
-          <div class="col-lg-6 col-md-12">
-            <div class="col-lg-12 text-center-2">
-              <h3 class="text-uppercase">Contáctanos</h2>
-            </div>
-            <form id="contactForm" name="sentMessage" novalidate="novalidate">
-              <div class="row">
-                <div class="col-md-12">
-                  <div class="form-group">
-                    <input class="form-control" id="name" type="text" placeholder="Your Name *" required="required" data-validation-required-message="Please enter your name.">
-                    <p class="help-block text-danger"></p>
-                  </div>
-                  <div class="form-group">
-                    <input class="form-control" id="email" type="email" placeholder="Your Email *" required="required" data-validation-required-message="Please enter your email address.">
-                    <p class="help-block text-danger"></p>
-                  </div>
-                </div>
-                <div class="col-md-12">
-                  <div class="form-group">
-                    <textarea class="form-control" id="message" placeholder="Your Message *" required="required" data-validation-required-message="Please enter a message."></textarea>
-                    <p class="help-block text-danger"></p>
-                  </div>
-                </div>
-                <div class="clearfix"></div>
-                <div class="col-lg-12 text-center-2">
-                  <div id="success"></div>
-                  <button id="sendMessageButton" class="btn btn-primary btn-xl text-uppercase" type="submit">Send Message</button>
-                </div>
-              </div>
-            </form>
-          </div>
-          <div class="col-lg-6 col-md-12">
-            <div class="map-container text-center-2">
+          <div class="col-lg-12 col-md-12">
+            <div class="map-container text-center">
               <h6>Morelos núm. 6, Tezompa, Chalco Edo. Mex. 56624</h6>
               <iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2250.8089439453056!2d-98.95851777570967!3d19.20799082969903!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ce1b3e08868d49%3A0x25aeef651fc343f0!2sLudomatics!5e0!3m2!1ses-419!2smx!4v1543111696799" frameborder="0" style="border:0" allowfullscreen></iframe>
             </div>
