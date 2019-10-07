@@ -17,7 +17,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center-2">
-            <h3 class="section-heading text-uppercase">Ven atender inglés con nosotros de forma divertida y eficiente. Tenemos cursos para niños mayores de 4 años así como para adolescentes y adultos.</h3>
+            <h3 class="section-heading text-uppercase">Ven aprender inglés con nosotros de forma divertida y eficiente. Tenemos cursos para niños mayores de 4 años así como para adolescentes y adultos.</h3>
           </div>
         </div> 
         <div class="row">
