@@ -87,14 +87,14 @@
           <div class="footer-left">
             <img src="img/logo/ludomatics.png" alt="ludomatics" width="150px">
             <p class="footer-links">
-              <a href="comipems.html">COMIPEMS</a> ·
-              <a href="universidad.html">C. Universidad</a> ·
-              <a href="ingles.html">Inglés</a> ·
-              <a href="regularizacion.html">Regularización</a> ·
-              <a href="aulaludomatica.html">Aula ludomática</a> ·
-              <a href="computacion.html">Computación</a>
+              <a href="comipems">COMIPEMS</a> ·
+              <a href="universidad">C. Universidad</a> ·
+              <a href="ingles">Inglés</a> ·
+              <a href="regularizacion">Regularización</a> ·
+              <a href="aulud">Aula ludomática</a> ·
+              <a href="computacion">Computación</a>
             </p>
-            <p class="footer-company-name">Ludomatics &copy; 2018. Todos los derechos reservados</p>
+            <p class="footer-company-name">Ludomatics &copy; 2019. Todos los derechos reservados</p>
           </div>
           <div class="footer-center">
             <div>
@@ -103,17 +103,17 @@
             </div>
             <div>
               <i class="fa fa-phone"></i>
-              <p>55 6627-1793</p>
+              <p>55 4084 6202</p>
             </div>
             <div>
               <i class="fa fa-envelope"></i>
-              <p><a href="mailto:support@company.com">cursos.ludomatics@gmail.com</a></p>
+              <p><a href="mailto:hola@ludomatics.org">hola@ludomatics.org</a></p>
             </div>
           </div>
           <div class="footer-right">
             <p class="footer-company-about">
               <span>Acerca de nosotros</span>
-              Lorem ipsum dolor sit amet, consectateur adispicing elit. Fusce euismod convallis velit, eu auctor lacus vehicula sit amet.
+              Somos una empresa comprometida con la educación en todos los niveles. 
             </p>
             <div class="footer-icons">
               <ul class="list-inline social-buttons">
