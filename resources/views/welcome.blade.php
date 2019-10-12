@@ -107,40 +107,172 @@
         </div>
       </div>
       <div class="row">
-        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-4">
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
             <h5>Jorge Garcia</h5>
             <h6>Cecyt 2 IPN</h6>
         </div>
-        <div class="col-lg-3 col-md-6 col-sm-12 text-center">
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
             <h5>Rodrigo Francisco</h5>
             <h6>ENP 1 UNAM</h6>
         </div>        
 
-        <div class="col-lg-3 col-md-6 col-sm-12 text-center">
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
             <h5>Carlos Ramírez R.</h5>
             <h6>ENP 6 UNAM</h6>
         </div>    
-        <div class="col-lg-3 col-md-6 col-sm-12 text-center">
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
             <h5>Cassiel García</h5>
             <h6>ENP 6 UNAM</h6>
         </div>
 
-        <div class="col-lg-3 col-md-6 col-sm-12 text-center">
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
             <h5>Miguel Francisco</h5>
             <h6>CCH Sur UNAM</h6>
         </div>        
-        <div class="col-lg-3 col-md-6 col-sm-12 text-center">
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
             <h5>Angela</h5>
             <h6>CCH Sur UNAM</h6>
         </div>   
-        <div class="col-lg-3 col-md-6 col-sm-12 text-center">
-            <h5>Lorena</h5>
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Lorena Cruz</h5>
             <h6>CCH Oriente UNAM</h6>
         </div>
-        <div class="col-lg-3 col-md-6 col-sm-12 text-center">
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
             <h5>Ximena</h5>
             <h6>CECYT 15 IPN</h6>
-        </div>        
+        </div>  
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Kimberly</h5>
+            <h6>ENP 6 UNAM</h6>
+        </div>
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Natalia</h5>
+            <h6>CECYT 15 IPN</h6>
+        </div>   
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Alondra</h5>
+            <h6>ENP 6 UNAM</h6>
+        </div>   
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Kevin</h5>
+            <h6>CECYT 15 IPN</h6>
+        </div>          
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Diana</h5>
+            <h6>CECYT 2 IPN</h6>
+        </div>          
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Emanuel</h5>
+            <h6>ENP 1 UNAM</h6>
+        </div>          
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Emanuel</h5>
+            <h6>CECYT 3 IPN</h6>
+        </div>          
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Emiliano</h5>
+            <h6>CCH SUR UNAM</h6>
+        </div>          
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Belem Cruz</h5>
+            <h6>ENP 1 UNAM</h6>
+        </div>          
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Alyande</h5>
+            <h6>CECYT 7 IPN</h6>
+        </div>    
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Abner</h5>
+            <h6>ENP 6 UNAM</h6>
+        </div> 
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Alejandro</h5>
+            <h6>ENP 5 UNAM</h6>
+        </div> 
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Oriko</h5>
+            <h6>CECYT 15 IPN</h6>
+        </div> 
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Kevin</h5>
+            <h6>CECYT 15 IPN</h6>
+        </div> 
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Homero</h5>
+            <h6>CCH ORIENTE UNAM</h6>
+        </div> 
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Yessica</h5>
+            <h6>CCH SUR UNAM</h6>
+        </div> 
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Benny</h5>
+            <h6>CECYT 15 IPN</h6>
+        </div> 
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Daniel Picil</h5>
+            <h6>CECYT 15 IPN</h6>
+        </div> 
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Diego</h5>
+            <h6>ENP 1 UNAM</h6>
+        </div> 
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3  ">
+            <h5>Ximena</h5>
+            <h6>CECYT 15 IPN</h6>
+        </div>  
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3  ">
+            <h5>Darlyn</h5>
+            <h6>CECYT 13 IPN</h6>
+        </div>  
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3  ">
+            <h5>Hans</h5>
+            <h6>CECYT 15 IPN</h6>
+        </div>  
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3  ">
+            <h5>Vanesa Canchola</h5>
+            <h6>CECYT 15 IPN</h6>
+        </div>  
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3  ">
+            <h5>Jesús</h5>
+            <h6>CECYT 13 IPN</h6>
+        </div>  
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3  ">
+            <h5>Axel</h5>
+            <h6>ENP 6 UNAM</h6>
+        </div>  
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3  ">
+            <h5>Chr</h5>
+            <h6>ENP 6 UNAM</h6>
+        </div>  
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3  ">
+            <h5>Aranza</h5>
+            <h6>ENP 5 UNAM</h6>
+        </div>  
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3  ">
+            <h5>Yessica</h5>
+            <h6>ENP 5 UNAM</h6>
+        </div>  
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3  ">
+            <h5>Viviana</h5>
+            <h6>CCH SUR UNAM</h6>
+        </div>  
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3  ">
+            <h5>Monserrat</h5>
+            <h6>ENP 7 UNAM</h6>
+        </div>  
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3  ">
+            <h5>Paola</h5>
+            <h6>ENP 1 UNAM</h6>
+        </div>  
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3  ">
+            <h5>Ani</h5>
+            <h6>ENP 5 UNAM</h6>
+        </div>  
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3  ">
+            <h5>Ruth</h5>
+            <h6>CECYT 15 IPN</h6>
+        </div>       
 
       </div>
 
@@ -157,39 +289,139 @@
         </div>
       </div>
       <div class="row">
-        <div class="col-lg-3 col-md-6 col-sm-12 text-center">
-            <h5>Jorge Garcia</h5>
-            <h6>Cecyt 2 IPN</h6>
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Sandra</h5>
+            <h6>UAEM</h6>
         </div>
-        <div class="col-lg-3 col-md-6 col-sm-12 text-center">
-            <h5>Rodrigo Francisco</h5>
-            <h6>ENP 1 UNAM</h6>
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Jorge</h5>
+            <h6>Facultad de Ingeniera UNAM</h6>
         </div>        
 
-        <div class="col-lg-3 col-md-6 col-sm-12 text-center">
-            <h5>Carlos Ramírez R.</h5>
-            <h6>ENP 6 UNAM</h6>
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Valeria</h5>
+            <h6>CICS UMA IPN</h6>
         </div>    
-        <div class="col-lg-3 col-md-6 col-sm-12 text-center">
-            <h5>Cassiel García</h5>
-            <h6>ENP 6 UNAM</h6>
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Oswaldo</h5>
+            <h6>ESIA IPN</h6>
         </div>
 
-        <div class="col-lg-3 col-md-6 col-sm-12 text-center">
-            <h5>Miguel Francisco</h5>
-            <h6>CCH Sur UNAM</h6>
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Angel Daniel</h5>
+            <h6>UAM IZTAPALAPA</h6>
         </div>        
-        <div class="col-lg-3 col-md-6 col-sm-12 text-center">
-            <h5>Angela</h5>
-            <h6>CCH Sur UNAM</h6>
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Alma</h5>
+            <h6>UAM IZTAPALAPA</h6>
         </div>   
-        <div class="col-lg-3 col-md-6 col-sm-12 text-center">
-            <h5>Lorena</h5>
-            <h6>CCH Oriente UNAM</h6>
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Yamileth</h5>
+            <h6>CICS UMA IPN</h6>
         </div>
-        <div class="col-lg-3 col-md-6 col-sm-12 text-center">
-            <h5>Ximena</h5>
-            <h6>CECYT 15 IPN</h6>
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Julieta</h5>
+            <h6>ESCA IPN</h6>
+        </div> 
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Michell</h5>
+            <h6>ESIME IPN</h6>
+        </div>   
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Anell</h5>
+            <h6>UAEM TOLUCA</h6>
+        </div>   
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Frida</h5>
+            <h6>UAM Iztapalapa</h6>
+        </div>   
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Denia</h5>
+            <h6>ESE IPN</h6>
+        </div>   
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Melissa</h5>
+            <h6>Normal Superior</h6>
+        </div>   
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Tania Hernández</h5>
+            <h6>ENCB IPN</h6>
+        </div> 
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Abigail</h5>
+            <h6>Biologia UAM </h6>
+        </div> 
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Monserrat</h5>
+            <h6>Biologia UAM</h6>
+        </div> 
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Araceli</h5>
+            <h6>ESIQUIE IPN</h6>
+        </div> 
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Yarely</h5>
+            <h6>UPN</h6>
+        </div> 
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Frida</h5>
+            <h6>UPN</h6>
+        </div> 
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Wendy</h5>
+            <h6>ESCA IPN</h6>
+        </div> 
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Margarita</h5>
+            <h6>Economía UAM Iztapalapa</h6>
+        </div> 
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Yuriko</h5>
+            <h6>Enfermería UAM Xochimilco</h6>
+        </div> 
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Paula</h5>
+            <h6>UAEM Valle</h6>
+        </div> 
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Elizabeth Zapata</h5>
+            <h6>Turismo UAEM</h6>
+        </div> 
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Yessenia</h5>
+            <h6>Ing. en comunicaciones y electrónica ESIME IPN</h6>
+        </div> 
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Berenice</h5>
+            <h6>Normal Superior</h6>
+        </div> 
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Yoselin</h5>
+            <h6>UAEM Texcoco</h6>
+        </div> 
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Paula</h5>
+            <h6>UAEM Valle</h6>
+        </div>   
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Diana</h5>
+            <h6>Normal Superior</h6>
+        </div> 
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Zulma</h5>
+            <h6>UAEM</h6>
+        </div> 
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Elena</h5>
+            <h6>UAEM Amecameca</h6>
+        </div> 
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Camila</h5>
+            <h6>UAEM Amecameca</h6>
+        </div> 
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Alma</h5>
+            <h6>UAM Iztapalapa</h6>
         </div>        
 
       </div>
