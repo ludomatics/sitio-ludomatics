@@ -44,7 +44,7 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
       <div class="container">
-        <a class="navbar-brand" href="/">
+        <a class="navbar-brand" href="{{ url('/') }}">
           <img src="{{asset('img/logo/ludomatics.png')}}" alt="ludomatics" class="logo">
         </a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
@@ -53,22 +53,22 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav text-uppercase ml-auto">
             <li class="nav-item">
-              <a class="nav-link" href="comipems">COMIPEMS</a>
+              <a class="nav-link" href="{{ url('/comipems') }}">COMIPEMS</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="universidad">C. Universidad</a>
+              <a class="nav-link" href="{{ url('/universidad') }}">C. Universidad</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="aulud">Aula Ludomática</a>
+              <a class="nav-link" href="{{ url('/aulud') }}">Aula Ludomática</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="reg">Regularización</a>
+              <a class="nav-link" href="{{ url('/reg') }}">Regularización</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="ingles">Inglés</a>
+              <a class="nav-link" href="{{ url('/ingles') }}">Inglés</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="computacion">Computación</a>
+              <a class="nav-link" href="{{ url('/computacion') }}">Computación</a>
             </li>
           </ul>
         </div>
@@ -85,14 +85,14 @@
       <div class="container">
         <div class="row">
           <div class="footer-left">
-            <img src="img/logo/ludomatics.png" alt="ludomatics" width="150px">
+            <a href="{{ url('/') }}"><img src="img/logo/ludomatics.png" alt="ludomatics" width="150px"></a>
             <p class="footer-links">
-              <a href="comipems">COMIPEMS</a> ·
-              <a href="universidad">C. Universidad</a> ·
-              <a href="ingles">Inglés</a> ·
-              <a href="regularizacion">Regularización</a> ·
-              <a href="aulud">Aula ludomática</a> ·
-              <a href="computacion">Computación</a>
+              <a href="{{ url('/comipems') }}">COMIPEMS</a> ·
+              <a href="{{ url('/universidad') }}">C. Universidad</a> ·
+              <a href="{{ url('/ingles') }}">Inglés</a> ·
+              <a href="{{ url('/reg') }}">Regularización</a> ·
+              <a href="{{ url('/aulud') }}">Aula ludomática</a> ·
+              <a href="{{ url('/computacion') }}">Computación</a>
             </p>
             <p class="footer-company-name">Ludomatics &copy; 2019. Todos los derechos reservados</p>
           </div>
@@ -118,17 +118,17 @@
             <div class="footer-icons">
               <ul class="list-inline social-buttons">
                 <li class="list-inline-item">
-                  <a href="#">
+                  <a href="https://www.facebook.com/ludomatics/">
                     <i class="fab fa-facebook-f"></i>
                   </a>
                 </li>
                 <li class="list-inline-item">
-                  <a href="#">
+                  <a href="https://www.facebook.com/ludomatics/">
                     <i class="fab fa-instagram"></i>
                   </a>
                 </li>
                 <li class="list-inline-item">
-                  <a href="#">
+                  <a href="https://www.facebook.com/ludomatics/">
                     <i class="fab fa-twitter"></i>
                   </a>
                 </li>
