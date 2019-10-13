@@ -70,7 +70,7 @@
                     <span class="escuela">Preparatoria No.1</span>
                     <span class="nom-escuela">Gabino Barreda</span>
                   </td>
-                  <td>103</td>
+                  <td>104</td>
                 </tr>
                 <tr>
                   <th scope="row">
@@ -80,7 +80,7 @@
                     <span class="escuela">Preparatoria No.2</span>
                     <span class="nom-escuela">Erasmo Castellanos</span>
                   </td>
-                  <td>109</td>
+                  <td>110</td>
                 </tr>
                 <tr>
                   <th scope="row">
@@ -90,7 +90,7 @@
                     <span class="escuela">Preparatoria No.3</span>
                     <span class="nom-escuela">Justo Sierra</span>
                   </td>
-                  <td>104</td>
+                  <td>106</td>
                 </tr>
                 <tr>
                   <th scope="row">
@@ -100,7 +100,7 @@
                     <span class="escuela">Preparatoria No.4</span>
                     <span class="nom-escuela">Vidal Castañeda Nájera</span>
                   </td>
-                  <td>96</td>
+                  <td>99</td>
                 </tr>
                 <tr>
                   <th scope="row">
@@ -110,7 +110,7 @@
                     <span class="escuela">Preparatoria No.5</span>
                     <span class="nom-escuela">José Vasconcelos</span>
                   </td>
-                  <td>106</td>
+                  <td>107</td>
                 </tr>
                 <tr>
                   <th scope="row">
@@ -120,7 +120,7 @@
                     <span class="escuela">Preparatoria No.6</span>
                     <span class="nom-escuela">Antonio Caso</span>
                   </td>
-                  <td>113</td>
+                  <td>114</td>
                 </tr>
                 <tr>
                   <th scope="row">
@@ -130,7 +130,7 @@
                     <span class="escuela">Preparatoria No.7</span>
                     <span class="nom-escuela">Ezequiel A. Chávez</span>
                   </td>
-                  <td>99</td>
+                  <td>102</td>
                 </tr>
                 <tr>
                   <th scope="row">
@@ -140,7 +140,7 @@
                     <span class="escuela">Preparatoria No.8</span>
                     <span class="nom-escuela">Miguel E. Schulz</span>
                   </td>
-                  <td>100</td>
+                  <td>102</td>
                 </tr>
                 <tr>
                   <th scope="row">
@@ -150,7 +150,7 @@
                     <span class="escuela">Preparatoria No.9</span>
                     <span class="nom-escuela">Pedro de Alba</span>
                   </td>
-                  <td>108</td>
+                  <td>110</td>
                 </tr>
               </tbody>
             </table>
@@ -176,7 +176,7 @@
                     <span class="escuela">CCH</span>
                     <span class="nom-escuela">Azcapotzalco</span>
                   </td>
-                  <td>92</td>
+                  <td>95</td>
                 </tr>
                 <tr>
                   <th scope="row">
@@ -186,7 +186,7 @@
                     <span class="escuela">CCH</span>
                     <span class="nom-escuela">Naucalpan</span>
                   </td>
-                  <td>88</td>
+                  <td>91</td>
                 </tr>
                 <tr>
                   <th scope="row">
@@ -196,7 +196,7 @@
                     <span class="escuela">CCH</span>
                     <span class="nom-escuela">Vallejo</span>
                   </td>
-                  <td>94</td>
+                  <td>96</td>
                 </tr>
                 <tr>
                   <th scope="row">
@@ -206,7 +206,7 @@
                     <span class="escuela">CCH</span>
                     <span class="nom-escuela">Oriente</span>
                   </td>
-                  <td>95</td>
+                  <td>97</td>
                 </tr>
                 <tr>
                   <th scope="row">
@@ -216,7 +216,7 @@
                     <span class="escuela">CCH</span>
                     <span class="nom-escuela">Sur</span>
                   </td>
-                  <td>97</td>
+                  <td>99</td>
                 </tr>
                 </tr>
               </tbody>

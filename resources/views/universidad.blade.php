@@ -62,26 +62,27 @@
     <section>
       <div class="container">
         <div class="row per-margin">
-          <h3 class="section-heading">Te preparamos para las principales convocatorias</h3>
+          <h3 class="section-heading"> A continuación revisa los puntajes de tu preferencia
+          </h3>
         </div>
         <div class="row">
-          <div class="col-lg-3 col-md-6 col-sm-12 center-image">
+          <div class="col-lg-3 col-md-6 col-sm-12 center-image text-center">
             <a href="universidad/unam"><img class="rounded-circle img-fluid img-date" src="img/escudos/unam.jpg" alt=""></a>
           </div>
-          <div class="col-lg-3 col-md-6 col-sm-12 center-image">
+          <div class="col-lg-3 col-md-6 col-sm-12 center-image text-center">
             <a href="universidad/ipn"><img class="rounded-circle img-fluid img-date" src="img/escudos/ipn.jpg" alt=""></a>
           </div>
-          <div class="col-lg-3 col-md-6 col-sm-12 center-image">
+          <div class="col-lg-3 col-md-6 col-sm-12 center-image text-center">
             <a href="universidad/uam"><img class="rounded-circle img-fluid img-date" src="img/escudos/uamFinal.png" alt=""></a>
           </div>
-          <div class="col-lg-3 col-md-6 col-sm-12 center-image">
+          <div class="col-lg-3 col-md-6 col-sm-12 center-image text-center">
             <a href="universidad/uaem"><img class="rounded-circle img-fluid img-date" src="img/escudos/escudouaem.jpg" alt=""></a>
           </div>
-			    <div class="col-lg-3 col-md-6 col-sm-12 center-image">
+			    <div class="col-lg-3 col-md-6 col-sm-12 center-image text-center">
             <a href="universidad/exanii"><img class="rounded-circle img-fluid img-date" src="img/escudos/EXANI-II.png" alt=""></a>
           </div>
 
-			    <div class="col-lg-3 col-md-6 col-sm-12 center-image">
+			    <div class="col-lg-3 col-md-6 col-sm-12 center-image text-center">
             <a href="universidad/militar"><img class="rounded-circle img-fluid img-date" src="img/escudos/militar.png" alt=""></a>
           </div>
 

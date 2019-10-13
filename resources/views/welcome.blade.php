@@ -33,7 +33,7 @@
             <p class="card-text text-muted-3">Prepárate para la próxima convocatoria del examen de admisión UNAM.</p>
             <a href="universidad" class="btn btn-primary">Ver más</a>
             <div class="text-right color-inicio mt-2">
-              <h5>Próximo inicio 28 de septiembre de 2019</h5>
+              <h5>Próximo inicio 28 de octubre de 2019</h5>
             </div>
           </div>
         </div>
@@ -44,7 +44,7 @@
             <p class="card-text text-muted-3">Alcanza tus metas, prepárate con este curso para asegurar tus primeras opciones al examen de admisión COMIPEMS.</p>
             <a href="comipems" class="btn btn-primary">Ver más</a>
             <div class="text-center text-warning mt-2">
-              <h5>Próximo inicio 28 de septiembre de 2019</h5>
+              <h5>Próximo inicio 28 de octubre de 2019</h5>
             </div>
           </div>
         </div>
@@ -66,7 +66,7 @@
             <p class="card-text text-muted-3">Contamos con certificaciones internacionales: CAMBRIAGE.</p>
             <a href="ingles" class="btn btn-primary">Ver más</a>
             <div class="text-right color-inicio mt-2">
-              <h5>Próximo inicio 28 de septiembre de 2019</h5>
+              <h5>Próximo inicio 28 de octubre de 2019</h5>
             </div>
           </div>
         </div>
@@ -79,7 +79,7 @@
             </p>
               <div class="block-center"><a href="aulud" class="btn btn-primary">Ver más</a></div>
               <div class="text-center text-warning mt-2">
-                <h5>Próximo inicio 28 de septiembre de 2019</h5>
+                <h5>Próximo inicio 28 de octubre de 2019</h5>
             </div>
           </div>
         </div>
@@ -170,7 +170,7 @@
             <h6>CECYT 3 IPN</h6>
         </div>          
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
-            <h5>Emiliano</h5>
+            <h5>Emiliano Galindo</h5>
             <h6>CCH SUR UNAM</h6>
         </div>          
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
@@ -178,7 +178,7 @@
             <h6>ENP 1 UNAM</h6>
         </div>          
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
-            <h5>Alyande</h5>
+            <h5>Alejandro</h5>
             <h6>CECYT 7 IPN</h6>
         </div>    
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
@@ -190,7 +190,7 @@
             <h6>ENP 5 UNAM</h6>
         </div> 
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
-            <h5>Oriko</h5>
+            <h5>Erika</h5>
             <h6>CECYT 15 IPN</h6>
         </div> 
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
@@ -214,11 +214,11 @@
             <h6>CECYT 15 IPN</h6>
         </div> 
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
-            <h5>Diego</h5>
+            <h5>Diego Cruz</h5>
             <h6>ENP 1 UNAM</h6>
         </div> 
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3  ">
-            <h5>Ximena</h5>
+            <h5>Ximena Varela</h5>
             <h6>CECYT 15 IPN</h6>
         </div>  
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3  ">
@@ -226,7 +226,7 @@
             <h6>CECYT 13 IPN</h6>
         </div>  
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3  ">
-            <h5>Hans</h5>
+            <h5>Hans Jimenez</h5>
             <h6>CECYT 15 IPN</h6>
         </div>  
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3  ">
@@ -242,7 +242,7 @@
             <h6>ENP 6 UNAM</h6>
         </div>  
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3  ">
-            <h5>Chr</h5>
+            <h5>Chiara</h5>
             <h6>ENP 6 UNAM</h6>
         </div>  
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3  ">
@@ -266,12 +266,16 @@
             <h6>ENP 1 UNAM</h6>
         </div>  
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3  ">
-            <h5>Ani</h5>
+            <h5>Andros</h5>
             <h6>ENP 5 UNAM</h6>
         </div>  
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3  ">
             <h5>Ruth</h5>
             <h6>CECYT 15 IPN</h6>
+        </div> 
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3  ">
+            <h5>Diego Flores Ramírez</h5>
+            <h6>ENP 1 UNAM</h6>
         </div>       
 
       </div>
@@ -294,12 +298,12 @@
             <h6>UAEM</h6>
         </div>
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
-            <h5>Jorge</h5>
+            <h5>Jorge garcía</h5>
             <h6>Facultad de Ingeniera UNAM</h6>
         </div>        
 
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
-            <h5>Valeria</h5>
+            <h5>Valeria Jimenez</h5>
             <h6>CICS UMA IPN</h6>
         </div>    
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
@@ -388,7 +392,7 @@
             <h6>Turismo UAEM</h6>
         </div> 
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
-            <h5>Yessenia</h5>
+            <h5>Yesenia Rodríguez</h5>
             <h6>Ing. en comunicaciones y electrónica ESIME IPN</h6>
         </div> 
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
