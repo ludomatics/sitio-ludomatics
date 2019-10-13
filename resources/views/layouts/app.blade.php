@@ -18,7 +18,7 @@
     <!-- Fonts -->
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
 
-    <link href="external/bootstrap.min.css" rel="stylesheet">
+    <link href="{{ asset('external/bootstrap.min.css') }}" rel="stylesheet">
 
     <!-- Custom fonts for this template -->
     <link href="{{asset('external/fontawesome-free/css/all.min.css')}}" rel="stylesheet" type="text/css">
@@ -53,23 +53,46 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav text-uppercase ml-auto">
             <li class="nav-item">
+              <a class="nav-link" href="{{ url('/') }}">Inicio</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Cursos de Preparación
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="nav-link" href="{{ url('/comipems') }}">COMIPEMS</a>
+                <div class="dropdown-divider"></div>
+                <a class="nav-link" href="{{ url('/universidad') }}">C. Universidad</a>
+              </div>
+            </li>
+            <!--li class="nav-item">
               <a class="nav-link" href="{{ url('/comipems') }}">COMIPEMS</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="{{ url('/universidad') }}">C. Universidad</a>
-            </li>
+            </li-->
             <li class="nav-item">
               <a class="nav-link" href="{{ url('/aulud') }}">Aula Ludomática</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="{{ url('/reg') }}">Regularización</a>
             </li>
-            <li class="nav-item">
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown2" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Otros cursos
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown2">
+                <a class="nav-link" href="{{ url('/ingles') }}">Inglés</a>
+                <div class="dropdown-divider"></div>
+                <a class="nav-link" href="{{ url('/computacion') }}">Computación</a>
+              </div>
+            </li>
+            <!--li class="nav-item">
               <a class="nav-link" href="{{ url('/ingles') }}">Inglés</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="{{ url('/computacion') }}">Computación</a>
-            </li>
+            </li-->
           </ul>
         </div>
       </div>
@@ -87,12 +110,14 @@
           <div class="footer-left">
             <a href="{{ url('/') }}"><img src="img/logo/ludomatics.png" alt="ludomatics" width="150px"></a>
             <p class="footer-links">
+              <a href="{{ url('/') }}">Inicio</a> ·
               <a href="{{ url('/comipems') }}">COMIPEMS</a> ·
               <a href="{{ url('/universidad') }}">C. Universidad</a> ·
               <a href="{{ url('/ingles') }}">Inglés</a> ·
               <a href="{{ url('/reg') }}">Regularización</a> ·
               <a href="{{ url('/aulud') }}">Aula ludomática</a> ·
-              <a href="{{ url('/computacion') }}">Computación</a>
+              <a href="{{ url('/computacion') }}">Computación</a> . 
+              <a href="{{ url('/gallery') }}">Galería</a>
             </p>
             <p class="footer-company-name">Ludomatics &copy; 2019. Todos los derechos reservados</p>
           </div>
