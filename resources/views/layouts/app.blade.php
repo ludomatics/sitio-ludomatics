@@ -18,7 +18,7 @@
     <!-- Fonts -->
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
 
-    <link href="{{ asset('external/bootstrap.min.css') }}" rel="stylesheet">
+    <link href="{{ asset('external/bootstrap.min.css')}}" rel="stylesheet">
 
     <!-- Custom fonts for this template -->
     <link href="{{asset('external/fontawesome-free/css/all.min.css')}}" rel="stylesheet" type="text/css">
@@ -55,7 +55,7 @@
             <li class="nav-item">
               <a class="nav-link" href="{{ url('/') }}">Inicio</a>
             </li>
-            <li class="nav-item dropdown">
+            <!--li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Cursos de Preparación
               </a>
@@ -64,20 +64,20 @@
                 <div class="dropdown-divider"></div>
                 <a class="nav-link" href="{{ url('/universidad') }}">C. Universidad</a>
               </div>
-            </li>
-            <!--li class="nav-item">
+            </li-->
+            <li class="nav-item">
               <a class="nav-link" href="{{ url('/comipems') }}">COMIPEMS</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="{{ url('/universidad') }}">C. Universidad</a>
-            </li-->
+              <a class="nav-link" href="{{ url('/universidad') }}">Universidad</a>
+            </li>
             <li class="nav-item">
-              <a class="nav-link" href="{{ url('/aulud') }}">Aula Ludomática</a>
+              <a class="nav-link" href="{{ url('/aulud') }}">Ludomática</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="{{ url('/reg') }}">Regularización</a>
             </li>
-            <li class="nav-item dropdown">
+            <!--li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown2" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Otros cursos
               </a>
@@ -86,13 +86,13 @@
                 <div class="dropdown-divider"></div>
                 <a class="nav-link" href="{{ url('/computacion') }}">Computación</a>
               </div>
-            </li>
-            <!--li class="nav-item">
+            </li-->
+            <li class="nav-item">
               <a class="nav-link" href="{{ url('/ingles') }}">Inglés</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="{{ url('/computacion') }}">Computación</a>
-            </li-->
+            </li>
           </ul>
         </div>
       </div>
