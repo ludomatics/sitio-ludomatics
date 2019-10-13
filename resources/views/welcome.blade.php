@@ -380,7 +380,7 @@
             <h6>Enfermería UAM Xochimilco</h6>
         </div> 
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
-            <h5>Paula</h5>
+            <h5>Paula Flores Alcántara</h5>
             <h6>UAEM Valle</h6>
         </div> 
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
