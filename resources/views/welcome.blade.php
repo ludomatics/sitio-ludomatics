@@ -198,7 +198,7 @@
             <h6>CECYT 15 IPN</h6>
         </div> 
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
-            <h5>Homero</h5>
+            <h5>Horacio</h5>
             <h6>CCH ORIENTE UNAM</h6>
         </div> 
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
@@ -230,7 +230,7 @@
             <h6>CECYT 15 IPN</h6>
         </div>  
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3  ">
-            <h5>Vanesa Canchola</h5>
+            <h5>Vanesa Rojas Villaruel</h5>
             <h6>CECYT 15 IPN</h6>
         </div>  
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3  ">
