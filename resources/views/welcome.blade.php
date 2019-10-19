@@ -32,7 +32,7 @@
             <h4 class="card-title">Curso universidad</h4>
             <p class="card-text text-muted-3">Prepárate para la próxima convocatoria del examen de admisión UNAM.</p>
             <a href="universidad" class="btn btn-primary">Ver más</a>
-            <div class="text-right color-inicio mt-2">
+            <div class="text-right text-white mt-2">
               <h5>Próximo inicio 28 de octubre de 2019</h5>
             </div>
           </div>
@@ -295,85 +295,92 @@
       <div class="row">
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
             <h5>Sandra</h5>
-            <h6>UAEM</h6>
+            <h6>Contaduría UAEM</h6>
         </div>
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
-            <h5>Jorge garcía</h5>
+            <h5>Jorge García</h5>
+            <h6>ESIME TICOMAN</h6>
             <h6>Facultad de Ingeniera UNAM</h6>
         </div>        
 
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
             <h5>Valeria Jimenez</h5>
-            <h6>CICS UMA IPN</h6>
+            <h6>Medicina CICS UMA IPN</h6>
         </div>    
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
             <h5>Oswaldo</h5>
-            <h6>ESIA IPN</h6>
+            <h6>Ing. Petrolera ESIA IPN</h6>
         </div>
 
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
             <h5>Angel Daniel</h5>
-            <h6>UAM IZTAPALAPA</h6>
+            <h6>Ciencias Políticas UAM IZTAPALAPA</h6>
         </div>        
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
             <h5>Alma</h5>
-            <h6>UAM IZTAPALAPA</h6>
+            <h6>Física UAM IZTAPALAPA</h6>
+            <h6>Ing. en comunicaciones y electrónica ESIME IPN</h6>
         </div>   
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
             <h5>Yamileth</h5>
-            <h6>CICS UMA IPN</h6>
+            <h6>Medico Cirujano y Partero CICS UMA IPN</h6>
         </div>
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
             <h5>Julieta</h5>
-            <h6>ESCA IPN</h6>
+            <h6>Lic. en Negocios ESCA IPN</h6>
         </div> 
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
             <h5>Michell</h5>
-            <h6>ESIME IPN</h6>
+            <h6>Ing. en Mecánica ESIME IPN</h6>
         </div>   
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
             <h5>Anell</h5>
-            <h6>UAEM TOLUCA</h6>
+            <h6>Fisioterapia UAEM TOLUCA</h6>
         </div>   
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
             <h5>Frida</h5>
-            <h6>UAM Iztapalapa</h6>
+            <h6>Ing. química en alimentos UAM Iztapalapa</h6>
         </div>   
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
             <h5>Denia</h5>
-            <h6>ESE IPN</h6>
+            <h6>Economía ESE IPN</h6>
         </div>   
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
             <h5>Melissa</h5>
-            <h6>Normal Superior</h6>
+            <h6>Lic. en enseñanza del inglés Normal Superior</h6>
         </div>   
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
             <h5>Tania Hernández</h5>
-            <h6>ENCB IPN</h6>
+            <h6>Ing. Química ENCB IPN</h6>
         </div> 
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
             <h5>Abigail</h5>
-            <h6>Biologia UAM </h6>
+            <h6>Biologia Experimental UAM </h6>
         </div> 
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
             <h5>Monserrat</h5>
-            <h6>Biologia UAM</h6>
+            <h6>Biologia General UAM</h6>
         </div> 
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
             <h5>Araceli</h5>
-            <h6>ESIQUIE IPN</h6>
+            <h6>Ing. química petrolera ESIQIE IPN</h6>
         </div> 
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Mariana</h5>
+            <h6>Pedagogía UPN</h6>
+        </div>         
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
             <h5>Yarely</h5>
-            <h6>UPN</h6>
+            <h6>Biología UNAM</h6>
         </div> 
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
             <h5>Frida</h5>
-            <h6>UPN</h6>
+            <h6>Pedagogía UPN</h6>
         </div> 
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
             <h5>Wendy</h5>
-            <h6>ESCA IPN</h6>
+            <h6>Relaciones comerciales ESCA Santo Tomas IPN</h6>
+            <h6>Diseño industrial UAM Xochimilco</h6>
         </div> 
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
             <h5>Margarita</h5>
@@ -384,8 +391,8 @@
             <h6>Enfermería UAM Xochimilco</h6>
         </div> 
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
-            <h5>Paula Flores Alcántara</h5>
-            <h6>UAEM Valle</h6>
+            <h5>Paula Flores</h5>
+            <h6>Derecho UAEM Valle</h6>
         </div> 
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
             <h5>Elizabeth Zapata</h5>
@@ -396,8 +403,8 @@
             <h6>Ing. en comunicaciones y electrónica ESIME IPN</h6>
         </div> 
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
-            <h5>Berenice</h5>
-            <h6>Normal Superior</h6>
+            <h5>Fernanda Isela</h5>
+            <h6>Lic. en Preescolar Normal Superior</h6>
         </div> 
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
             <h5>Yoselin</h5>
