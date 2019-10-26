@@ -33,7 +33,7 @@
             <p class="card-text text-muted-3">Prepárate para la próxima convocatoria del examen de admisión UNAM.</p>
             <a href="universidad" class="btn btn-primary">Ver más</a>
             <div class="text-right text-white mt-2">
-              <h5>Próximo inicio 28 de octubre de 2019</h5>
+              <h5>Próximo inicio 26 de octubre de 2019</h5>
             </div>
           </div>
         </div>
@@ -44,7 +44,7 @@
             <p class="card-text text-muted-3">Alcanza tus metas, prepárate con este curso para asegurar tus primeras opciones al examen de admisión COMIPEMS.</p>
             <a href="comipems" class="btn btn-primary">Ver más</a>
             <div class="text-center text-warning mt-2">
-              <h5>Próximo inicio 28 de octubre de 2019</h5>
+              <h5>Próximo inicio 26 de octubre de 2019</h5>
             </div>
           </div>
         </div>
@@ -66,7 +66,7 @@
             <p class="card-text text-muted-3">Contamos con certificaciones internacionales: CAMBRIAGE.</p>
             <a href="ingles" class="btn btn-primary">Ver más</a>
             <div class="text-right color-inicio mt-2">
-              <h5>Próximo inicio 28 de octubre de 2019</h5>
+              <h5>Próximo inicio 26 de octubre de 2019</h5>
             </div>
           </div>
         </div>
@@ -79,7 +79,7 @@
             </p>
               <div class="block-center"><a href="aulud" class="btn btn-primary">Ver más</a></div>
               <div class="text-center text-warning mt-2">
-                <h5>Próximo inicio 28 de octubre de 2019</h5>
+                <h5>Próximo inicio 26 de octubre de 2019</h5>
             </div>
           </div>
         </div>
@@ -298,13 +298,13 @@
             <h6>Contaduría UAEM</h6>
         </div>
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
-            <h5>Jorge García</h5>
+            <h5>Jorge</h5>
             <h6>ESIME TICOMAN</h6>
             <h6>Facultad de Ingeniera UNAM</h6>
         </div>        
 
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
-            <h5>Valeria Jimenez</h5>
+            <h5>Valeria</h5>
             <h6>Medicina CICS UMA IPN</h6>
         </div>    
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
@@ -350,7 +350,7 @@
             <h6>Lic. en enseñanza del inglés Normal Superior</h6>
         </div>   
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
-            <h5>Tania Hernández</h5>
+            <h5>Tania </h5>
             <h6>Ing. Química ENCB IPN</h6>
         </div> 
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
@@ -391,15 +391,15 @@
             <h6>Enfermería UAM Xochimilco</h6>
         </div> 
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
-            <h5>Paula Flores</h5>
+            <h5>Paula</h5>
             <h6>Derecho UAEM Valle</h6>
         </div> 
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
-            <h5>Elizabeth Zapata</h5>
+            <h5>Elizabeth</h5>
             <h6>Turismo UAEM</h6>
         </div> 
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
-            <h5>Yesenia Rodríguez</h5>
+            <h5>Yesenia </h5>
             <h6>Ing. en comunicaciones y electrónica ESIME IPN</h6>
         </div> 
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
@@ -408,11 +408,11 @@
         </div> 
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
             <h5>Yoselin</h5>
-            <h6>UAEM Texcoco</h6>
+            <h6>Lic. en turismo UAEM Texcoco</h6>
         </div> 
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
             <h5>Paula</h5>
-            <h6>UAEM Valle</h6>
+            <h6>Lic. en Derecho UAEM Valle</h6>
         </div>   
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
             <h5>Diana</h5>
@@ -420,19 +420,23 @@
         </div> 
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
             <h5>Zulma</h5>
-            <h6>UAEM</h6>
+            <h6>Lic. en enfermería UAEM</h6>
         </div> 
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
             <h5>Elena</h5>
-            <h6>UAEM Amecameca</h6>
+            <h6>Veterinaria UAEM Amecameca</h6>
         </div> 
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
             <h5>Camila</h5>
-            <h6>UAEM Amecameca</h6>
+            <h6>Ciencia política UAEM Amecameca</h6>
         </div> 
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
             <h5>Alma</h5>
-            <h6>UAM Iztapalapa</h6>
+            <h6>Ing. en Alimentos UAM Iztapalapa</h6>
+        </div>  
+        <div class="col-lg-3 col-md-6 col-sm-12 text-center mb-3">
+            <h5>Elmiliano</h5>
+            <h6>Letras Latinoamericanas UAEM</h6>
         </div>        
 
       </div>
